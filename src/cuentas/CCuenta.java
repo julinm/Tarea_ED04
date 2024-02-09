@@ -1,5 +1,9 @@
 package cuentas;
 
+/**
+ * Esta clase almacena la información de las cuentas bancarias
+ * @author Julia Menardi
+ */
 public class CCuenta {
 
     /**
